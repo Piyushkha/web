@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
       ),
       home: Container(
         color: Colors.red,
-      ),
+      )
     );
   }
 }
