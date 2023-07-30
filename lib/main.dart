@@ -24,7 +24,6 @@ class MyApp extends StatelessWidget {
         textTheme: TextTheme(
           bodyText1: TextStyle(color: kBodyTextColor),
           bodyText2: TextStyle(color: kBodyTextColor),
-          headline5: TextStyle(color: kDarkBlackColor),
         ),
       ),
       home: Container(
